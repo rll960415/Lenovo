@@ -37,12 +37,12 @@ a{text-decoration: none; color: #121212;}
 @font-face {
     font-family: 'iconfont';
     src: url('iconfont.eot');
-    src: url('./font_r8pvlcn6se/iconfont.eot?#iefix') format('embedded-opentype'),
+    src: url('../static/icon/iconfont.eot?#iefix') format('embedded-opentype'),
     
-        url('./font_r8pvlcn6se/iconfont.woff2') format('woff2'),
-        url('./font_r8pvlcn6se/iconfont.woff') format('woff'),
-        url('./font_r8pvlcn6se/iconfont.ttf') format('truetype'),
-        url('./font_r8pvlcn6se/iconfont.svg#iconfont') format('svg');
+        url('../static/icon/iconfont.woff2') format('woff2'),
+        url('../static/icon/iconfont.woff') format('woff'),
+        url('../static/icon/iconfont.ttf') format('truetype'),
+        url('../static/icon/iconfont.svg#iconfont') format('svg');
   }
   
   .iconfont {
