@@ -32,8 +32,17 @@ function sassTask(){
             .pipe(dest('./dist/css'))
 }
 
+//js文件的处理
+function jsTask(){
+    return src('./src/js/**')
+            .pipe(dest('./dist/js'));
+}
 
-
+//js文件的处理
+function libTask(){
+    return src('./src/lib/**')
+            .pipe(dest('./dist/lib'));
+}
 
 
 
@@ -44,6 +53,8 @@ function watchTask(){
     watch('./src/view/**',htmlTask);
     watch('./src/static/**',staticTask);
     watch('./src/css/**',sassTask);
+    watch('./src/js/**',jsTask);
+    watch('./src/lib/**',libTask);
 }
 
 //gulp启动web服务器
@@ -61,7 +72,7 @@ function webTask(){
 
 module.exports = {
     //开发调用的命令（开发时一般都压缩，与生产的命令不一样）
-    dev:series(cleanTask,parallel(htmlTask,staticTask,sassTask),parallel(watchTask,webTask)),
+    dev:series(cleanTask,parallel(htmlTask,staticTask,sassTask,libTask,jsTask),parallel(watchTask,webTask)),
     //生产调用的命令
     build:series(cleanTask)
 
