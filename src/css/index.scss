@@ -31,24 +31,6 @@ a{text-decoration: none; color: #121212;}
 #r_Carousel #r_Col span.active i{width: 20px;height: 20px; border-radius: 20px; border: 1px solid #fff; background: transparent;}
 
 
+/* ----------------菜单导航--------------- */
 
 
-
-@font-face {
-    font-family: 'iconfont';
-    src: url('iconfont.eot');
-    src: url('../static/icon/iconfont.eot?#iefix') format('embedded-opentype'),
-    
-        url('../static/icon/iconfont.woff2') format('woff2'),
-        url('../static/icon/iconfont.woff') format('woff'),
-        url('../static/icon/iconfont.ttf') format('truetype'),
-        url('../static/icon/iconfont.svg#iconfont') format('svg');
-  }
-  
-  .iconfont {
-    font-family: "iconfont" !important;
-    font-size: 22px;
-    font-style: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
