@@ -89,17 +89,26 @@ function run(){
 
 // -------------------------------------导航鼠标移上点击
 var r_ntli = document.querySelectorAll('#r_nav #r_ntop li');
-var r_ntlia = document.querySelectorAll('#r_nav #r_ntop li a');
-
 
 for(var i=0; i<r_ntli.length; i++){
-    console.log(12);
     r_ntli[i].onmouseover = function(){
         for(var i=0; i<r_ntli.length; i++){
             r_ntli[i].className ='r_l '
         }
         this.className += ' activty'
-        console.log(1111);
-    }
-    
+    } 
+}
+
+var r_nbli = document.querySelectorAll('#r_nav #r_nbom li');
+var r_ntliimg1 = document.querySelectorAll('#r_nav #r_ntop li a .img1');
+var r_ntliimg2 = document.querySelectorAll('#r_nav #r_ntop li a .img2');
+
+for(var i=0; i<r_nbli.length; i++){
+    r_nbli[i].onmouseover = function(){
+        for(var i=0; i<r_nbli.length; i++){
+            r_nbli[i].className ='r_l '
+        }
+        this.className += ' active'
+    } 
+
 }

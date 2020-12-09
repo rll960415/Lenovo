@@ -106,38 +106,54 @@ a {
   background-color: #f9f9f9;
   padding-top: 10px;
   padding-bottom: 50px; }
-
-#r_nav #r_ntop {
-  width: 1200px;
-  height: 65px;
-  overflow: hidden;
-  border: 1px solid #d7dde3;
-  margin: 0 auto;
-  border-right: none;
-  background-color: #eee; }
-
-#r_nav #r_ntop li {
-  position: relative;
-  line-height: 65px;
-  text-align: center;
-  font-weight: 600;
-  font-size: 14px;
-  border-right: 1px solid #d7dde3;
-  box-sizing: border-box; }
-
-#r_nav .show_r_ntop {
-  display: inline-block;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0; }
-
-#r_nav #r_ntop li img {
-  position: absolute;
-  right: 40px;
-  top: 22px;
-  display: none; }
-
-#r_nav #r_ntop li.activty img {
-  display: block; }
+  #r_nav #r_ntop {
+    width: 1200px;
+    height: 65px;
+    border-top: 1px solid #d7dde3;
+    border-left: 1px solid #d7dde3;
+    margin: 0 auto;
+    background-color: #eee; }
+    #r_nav #r_ntop li {
+      position: relative;
+      line-height: 60px;
+      height: 100%;
+      text-align: center;
+      font-weight: 600;
+      font-size: 14px;
+      border-right: 1px solid #d7dde3;
+      box-sizing: border-box; }
+      #r_nav #r_ntop li img {
+        position: absolute;
+        right: 40px;
+        top: 22px;
+        display: none; }
+    #r_nav #r_ntop li.activty img {
+      display: block; }
+    #r_nav #r_ntop li.activty p {
+      border-bottom: 5px solid #b1b9c2;
+      color: #446089; }
+  #r_nav .show_r_ntop {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; }
+  #r_nav #r_nbom {
+    width: 1200px;
+    height: 140px;
+    margin: 0 auto; }
+    #r_nav #r_nbom li {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center; }
+      #r_nav #r_nbom li .img2 {
+        display: none; }
+    #r_nav #r_nbom li.active a {
+      color: #446089; }
+      #r_nav #r_nbom li.active a .img2 {
+        display: block; }
+      #r_nav #r_nbom li.active a .img1 {
+        display: none; }
