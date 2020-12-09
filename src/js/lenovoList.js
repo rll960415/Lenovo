@@ -40,7 +40,7 @@ $span.eq(1).on('click', function () {
 })
 
 $.ajax({
-    url: './data/good.json',
+    url: '../data/good.json',
     type: 'get',
     dataType: 'json',
     success: function (json) {

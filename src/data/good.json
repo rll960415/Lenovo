@@ -1,428 +1,428 @@
 {
     "data":[
         {            
-            "imgUrl":"./img/x_1.jpg",            
+            "imgUrl":"../static/imges/img/x_1.jpg",            
             "xiaoxin":[
                 {
                     "id": "abc2",
                     "name":"小新Air14 2021英特尔酷睿i5 14.0英寸全面屏轻薄笔记本电脑 银",
                     "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/14.0英寸16G/512G SSD/GeForce MX450 2G独显/银色",
-                    "imgurl":"./img/x_2.jpg",
+                    "imgurl":"../static/imges/img/x_2.jpg",
                     "price":"¥ 5299"
                 },
                 {
                     "id": "abc3",
                     "name":"拯救者 Y7000 2020 英特尔酷睿i7 15.6英寸游戏笔记本 幻影黑",
                     "title":"第十代英特尔酷睿i7-10870H/Windows 10 家庭中文版/15.6英寸/16G/512G SSD/ GeForce GTX™ 1660Ti 6G独显/幻影黑",
-                    "imgurl":"./img/x_3.jpg",
+                    "imgurl":"../static/imges/img/x_3.jpg",
                     "price":" ¥ 7899"
                 },
                 {
                     "id": "abc4",
                     "name":"联想平板小新Pad 11英寸 学习娱乐平板电脑 深空灰",
                     "title":"Qualcomm® Snapdragon™ 662/8核/Android系统/11英寸/6G/128G/WIFI版/深空灰",
-                    "imgurl":"./img/x_4.jpg",
+                    "imgurl":"../static/imges/img/x_4.jpg",
                     "price":" ¥ 1299"
                 },
                 {
                   "id": "abc5",
                   "name":"联想平板小新Pad Pro 11.5英寸 影音娱乐办公学习平板电脑 深空灰",
                   "title":"Qualcomm® Snapdragon™ 730G/8核/Android系统/11.5英寸/6G128G/WIFI版/深空灰",
-                  "imgurl":"./img/x_5.jpg",
+                  "imgurl":"../static/imges/img/x_5.jpg",
                   "price":" ¥ 1999"
                 },
                 {
                   "id": "abc6",
                   "name":"小新 Air15 2021酷睿版英特尔酷睿i5 15.6英寸全面屏轻薄本 银色",
                   "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/15.6英寸16G/512G SSD/GeForce MX450 2G独显/银色",
-                  "imgurl":"./img/x_6.jpg",
+                  "imgurl":"../static/imges/img/x_6.jpg",
                   "price":"¥ 5699"
                 },
                 {
                   "id": "abc7",
                   "name":"YOGA 13s 2021款英特尔Evo平台 13.3英寸全面屏轻薄笔记本 深空",
                   "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/13.3英寸16G/512G SSD/集成显卡/深空灰",
-                  "imgurl":"./img/x_7.jpg",
+                  "imgurl":"../static/imges/img/x_7.jpg",
                   "price":" ¥ 5499"
                 },
                 {
                   "id": "abc8",
                   "name":"YOGA14s 2021酷睿版英特尔Evo平台 14英寸全面屏轻薄笔记本深空",
                   "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/14.0英寸16G/512G SSD/集成显卡/深空灰",
-                  "imgurl":"./img/x_8.jpg",
+                  "imgurl":"../static/imges/img/x_8.jpg",
                   "price":" ¥ 5699"
                 },
                 {
                   "id": "abc9",
                   "name":"YOGA 14s 2021款 14.0英寸全面屏超轻薄笔记本电脑 深空灰",
                   "title":"AMD Ryzen 7 4800H/Windows 10 家庭中文版/14.0英寸/16G/512GSSD/集成显卡/深空灰",
-                  "imgurl":"./img/x_9.jpg",
+                  "imgurl":"../static/imges/img/x_9.jpg",
                   "price":" ¥ 6099"
                 }
             ]           
         },
         {
-            "imgUrl":"./img/z_1.jpg",
+            "imgUrl":"../static/imges/img/z_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc11",
                     "name":"YOGA 14c 2021英特尔酷睿i5 14.0英寸全面屏超轻薄笔记本 深空灰",
                     "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/14.0英寸/16G/512G SSD/集成显卡/深空灰",
-                    "imgurl":"./img/z_2.jpg",
+                    "imgurl":"../static/imges/img/z_2.jpg",
                     "price":"¥ 5999"
                 },
                 {
                   "id": "abc12",
                   "name":"YOGA Pro 13s 2021英特尔酷睿i5 13.3英寸全面屏轻薄本 皓月白",
                   "title":"第11代英特尔酷睿i5-1135G7/Windows 10 家庭中文版/13.3英寸16G/512G SSD/集成显卡/皓月白",
-                  "imgurl":"./img/z_3.jpg",
+                  "imgurl":"../static/imges/img/z_3.jpg",
                   "price":"¥ 6299"
                 },
                 {
                   "id": "abc13",
                   "name":"ideapad 14s 英特尔酷睿i3 14.0英寸笔记本 银色",
                   "title":"第十代英特尔酷睿i3-10110U/Windows 10 家庭中文版/14.0英寸8G/512G SSD/集成显卡/银色",
-                  "imgurl":"./img/z_4.jpg",
+                  "imgurl":"../static/imges/img/z_4.jpg",
                   "price":"¥ 3199"
                 },
                 {
                   "id": "abc14",
                   "name":"网课小新Air142020酷睿版英特尔酷睿i5 14英寸全面屏轻薄本星月银",
                   "title":"十代英特尔酷睿i5-1035G1/Windows 10 家庭中文版/14.0英寸/16G512G SSD/GeForce MX350 2G独显/星月银",
-                  "imgurl":"./img/z_5.jpg",
+                  "imgurl":"../static/imges/img/z_5.jpg",
                   "price":" ¥ 4999"
                 },
                 {
                   "id": "abc15",
                   "name":"拯救者 Y9000K 2020 英特尔酷睿i7 15.6英寸专业电竞本 耀石灰",
                   "title":"十代英特尔酷睿i7-10875H/Windows 10 家庭中文版/15.6英寸/32G1T SSD/GeForce RTX™ 2070 Super MaxQ 8G独显/耀石灰",
-                  "imgurl":"./img/z_6.jpg",
+                  "imgurl":"../static/imges/img/z_6.jpg",
                   "price":"¥ 14999"
                 },
                 {
                   "id": "abc16",
                   "name":"Y9000X 英特尔酷睿i7 15.6英寸高性能标压轻薄笔记本",
                   "title":"九代英特尔酷睿i7-9750H/Windows 10 家庭中文版/15.6英寸 4K16G/1T SSD/ 集成显卡/深空灰",
-                  "imgurl":"./img/z_7.jpg",
+                  "imgurl":"../static/imges/img/z_7.jpg",
                   "price":" ¥ 8299"
                 },
                 {
                   "id": "abc17",
                   "name":"拯救者 Y7000 2020 英特尔酷睿i7 15.6英寸游戏笔记本 幻影黑",
                   "title":"第十代英特尔®酷睿™i7-10750H/Windows 10 家庭中文版/15.6英寸16G/512G SSD/ GeForce GTX™ 1650 4G独显/幻影黑",
-                  "imgurl":"./img/z_8.jpg",
+                  "imgurl":"../static/imges/img/z_8.jpg",
                   "price":" ¥ 6499"
                 },
                 {
                   "id": "abc18",
                   "name":"拯救者 Y7000P 2020款 英特尔酷睿i7 15.6英寸游戏笔记本 钛晶灰",
                   "title":"第十代英特尔®酷睿™i7-10875H/Windows 10 家庭中文版/15.6英寸16G/512G SSD/ GeForce RTX™ 2060 6G独显/钛晶灰",
-                  "imgurl":"./img/z_9.jpg",
+                  "imgurl":"../static/imges/img/z_9.jpg",
                   "price":"¥ 8499"
                 }
             ]
         },
         {
-            "imgUrl":"./img/r_1.jpg",
+            "imgUrl":"../static/imges/img/r_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc20",
                     "name":"拯救者 刃9000 十代英特尔酷睿i7 2020 分体台式机 黑色",
                     "title":"十代英特尔酷睿i7-10700KF/i7-10700K/Windows 10 家庭中文版/16G/512 SSD/GeForce RTX 2070 /黑色",
-                    "imgurl":"./img/r_2.jpg",
+                    "imgurl":"../static/imges/img/r_2.jpg",
                     "price":"¥ 8999"
                 },
                 {
                   "id": "abc21",
                   "name":"拯救者 刃7000K 2020十代英特尔酷睿i5 分体台式机 黑色",
                   "title":"十代英特尔酷睿i5-10400/Windows 10 家庭中文版/16G/ 512G SSDGTX1660 SUPER-6GB/黑色",
-                  "imgurl":"./img/r_3.jpg",
+                  "imgurl":"../static/imges/img/r_3.jpg",
                   "price":" ¥ 5199"
                 },
                 {
                   "id": "abc22",
                   "name":"拯救者 刃7000K 2020十代英特尔酷睿i7 分体台式机 黑色",
                   "title":"十代英特尔酷睿i7-10700/i7-10700F/Windows 10 家庭中文版16G/ 512G SSD/RTX2060 CD-6GB/黑色",
-                  "imgurl":"./img/r_4.jpg",
+                  "imgurl":"../static/imges/img/r_4.jpg",
                   "price":" ¥ 7499"
                 },
                 {
                   "id": "abc23",
                   "name":"拯救者 刃7000P 进阶版 分体式台式机 黑色",
                   "title":"RYZEN_5_3600/Windows 10 家庭中文版/16G/ 512G SSDRTX2060_CD_6GB/黑色",
-                  "imgurl":"./img/r_5.jpg",
+                  "imgurl":"../static/imges/img/r_5.jpg",
                   "price":" ¥ 5999"
                 },
                 {
                   "id": "abc24",
                   "name":"拯救者 刃9000K 2020 分体台式机 黑色",
                   "title":"十代英特尔酷睿i9-10900K/32G/512GB SSD+2TB HDD/RTX2070SUPER 8GB GDDR6/黑色",
-                  "imgurl":"./img/r_6.jpg",
+                  "imgurl":"../static/imges/img/r_6.jpg",
                   "price":"¥ 13999"
                 },
                 {
                   "id": "abc25",
                   "name":"拯救者 刃9000 2020 分体台式机 黑色",
                   "title":"十代英特尔酷睿i7-10700K/16G/512 SSD/GeForce RTX 2060 /黑",
-                  "imgurl":"./img/r_7.jpg",
+                  "imgurl":"../static/imges/img/r_7.jpg",
                   "price":"¥ 8299"
                 },
                 {
                   "id": "abc26",
                   "name":"拯救者 刃7000K 2020 十代英特尔酷睿i9 分体台式机 黑色",
                   "title":"十代英特尔酷睿i9-10900/Windows 10 家庭中文版/32G/ 2T+512GSSD/RTX2060 6GB/黑色",
-                  "imgurl":"./img/r_8.jpg",
+                  "imgurl":"../static/imges/img/r_8.jpg",
                   "price":"¥ 8999"
                 },
                 {
                   "id": "abc27",
                   "name":"拯救者 刃7000K 2020十代英特尔酷睿i7 分体台式机 黑色",
                   "title":"十代英特尔酷睿i7-10700/i7-10700F/Windows 10 家庭中文版16G/ 512G SSD/GTX1660 SUPER-6GB/黑色",
-                  "imgurl":"./img/r_9.jpg",
+                  "imgurl":"../static/imges/img/r_9.jpg",
                   "price":" ¥ 6499"
                 }
             ]
         },
         {
-            "imgUrl":"./img/t_1.jpg",
+            "imgUrl":"../static/imges/img/t_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc29",
                     "name":"天逸510Pro-14IMB 英特尔酷睿i5 分体式台式机 灰色",
                     "title":"十代英特尔酷睿 i5-10400F/i5-10400/Windows 10 家庭中文版/8GB/1T+256 SSD/独立显卡/ 灰色",
-                    "imgurl":"./img/t_2.jpg",
+                    "imgurl":"../static/imges/img/t_2.jpg",
                     "price":"¥ 4699"
                 },
                 {
                   "id": "abc30",
                   "name":"天逸510S-07IMB 分体式台式机 银灰",
                   "title":"十代英特尔酷睿i3-10100/Windows 10 家庭中文版/8G/1T /集成卡/银灰",
-                  "imgurl":"./img/t_3.jpg",
+                  "imgurl":"../static/imges/img/t_3.jpg",
                   "price":" ¥ 2799"
                 },
                 {
                   "id": "abc31",
                   "name":"天逸510S-07ICK 英特尔酷睿i3 台式主机 银黑",
                   "title":"九代英特尔酷睿i3-9100/Windows 10 家庭中文版/8G/1T/集成显卡银黑",
-                  "imgurl":"./img/t_4.jpg",
+                  "imgurl":"../static/imges/img/t_4.jpg",
                   "price":" ¥ 2699"
                 },
                 {
                   "id": "abc32",
                   "name":"天逸510Pro-14IMB 十代英特尔酷睿i5 分体式台式机 灰色",
                   "title":"十代 英特尔酷睿i5-10400/Windows 10 家庭中文版/8GB/1T/集成卡/ 灰色",
-                  "imgurl":"./img/t_5.jpg",
+                  "imgurl":"../static/imges/img/t_5.jpg",
                   "price":" ¥ 3699"
                 },
                 {
                   "id": "abc33",
                   "name":"天逸510S-07IMB 分体式台式机",
                   "title":"十代英特尔酷睿i5-10400/Windows 10 家庭中文版/8G/512G SSD/成显卡/银灰",
-                  "imgurl":"./img/t_6.jpg",
+                  "imgurl":"../static/imges/img/t_6.jpg",
                   "price":" ¥ 3899"
                 },
                 {
                   "id": "abc34",
                   "name":"天逸510S-Mini 分体式台式机 矿石灰",
                   "title":"十代英特尔酷睿i5-10400/Windows 10 家庭中文版/16G/2T+256GSSD/集成显卡/矿石灰",
-                  "imgurl":"./img/t_7.jpg",
+                  "imgurl":"../static/imges/img/t_7.jpg",
                   "price":"¥ 3999"
                 },
                 {
                   "id": "abc35",
                   "name":"天逸510S-07ICK 分体式台式机 银黑",
                   "title":"九代英特尔酷睿i5-9400/Windows 10 家庭中文版/8GB/1T/集成卡/ 银黑",
-                  "imgurl":"./img/t_8.jpg",
+                  "imgurl":"../static/imges/img/t_8.jpg",
                   "price":"¥ 3399"
                 },
                 {
                   "id": "abc36",
                   "name":"天逸510Pro-14IMB 十代英特尔酷睿i3 分体式台式机 灰色",
                   "title":"十代英特尔酷睿i3-10100/Windows 10 家庭中文版/8GB/1T/集成卡/灰色",
-                  "imgurl":"./img/t_9.jpg",
+                  "imgurl":"../static/imges/img/t_9.jpg",
                   "price":"¥ 2899"
                 }
             ]
         },
         {
-            "imgUrl":"./img/a_1.jpg",
+            "imgUrl":"../static/imges/img/a_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc38",
                     "name":"联想Lecoo AIO 酷 一体式台式机 白色",
                     "title":"英特尔赛扬J4105/Windows 10 家庭中文版/23英寸/8G/256G SSD/集成显卡/白色",
-                    "imgurl":"./img/a_2.jpg",
+                    "imgurl":"../static/imges/img/a_2.jpg",
                     "price":" ¥ 2199"
                 },
                 {
                   "id": "abc39",
                   "name":"AIO 逸-24IWL 十代英特尔酷睿i5 23.8英寸一体台式机 黑色",
                   "title":"十代英特尔酷睿i5-10210U /Windows 10 家庭中文版/23.8英寸/8G/512G SSD/集成显卡/黑色",
-                  "imgurl":"./img/a_3.jpg",
+                  "imgurl":"../static/imges/img/a_3.jpg",
                   "price":"¥ 4499"
                 },
                 {
                   "id": "abc40",
                   "name":"网课AIO 逸-24IWL 十代英特尔酷睿i5 23.8英寸一体台式机 白色",
                   "title":"十代英特尔酷睿i5-10210U /Windows 10 家庭中文版/23.8英寸/8G/512G SSD/集成显卡/白色",
-                  "imgurl":"./img/a_4.jpg",
+                  "imgurl":"../static/imges/img/a_4.jpg",
                   "price":" ¥ 4399"
                 },
                 {
                   "id": "abc41",
                   "name":"AIO 520C-27IMB 十代英特尔酷睿i5 27英寸一体台式机 黑色",
                   "title":"十代英特尔酷睿i5-10400T/Windows 10 家庭中文版/27英寸/16G/512G SSD/集成显卡/黑色",
-                  "imgurl":"./img/a_5.jpg",
+                  "imgurl":"../static/imges/img/a_5.jpg",
                   "price":" ¥ 5299"
                 },
                 {
                   "id": "abc42",
                   "name":"AIO 520C-24IWL 十代英特尔酷睿i5 23.8英寸一体台式机 黑色",
                   "title":"十代英特尔酷睿i5-10210U/Windows 10 家庭中文版/23.8英寸/16G/512G SSD/集成显卡/黑色",
-                  "imgurl":"./img/a_6.jpg",
+                  "imgurl":"../static/imges/img/a_6.jpg",
                   "price":"¥ 4799"
                 },
                 {
                   "id": "abc43",
                   "name":"AIO 520C-27IMB 十代英特尔酷睿i5 27英寸一体台式机 黑色",
                   "title":"十代英特尔酷睿i5-10400T/Windows 10 家庭中文版/27英寸/16G/1T+512G SSD/独立显卡/黑色",
-                  "imgurl":"./img/a_7.jpg",
+                  "imgurl":"../static/imges/img/a_7.jpg",
                   "price":"¥ 6499"
                 },
                 {
                   "id": "abc44",
                   "name":"网课AIO 逸-24WL 23.8英寸一体台式机 黑色",
                   "title":"赛扬4205U /Windows 10 家庭中文版/23.8英寸/8G/256G SSD/集成显卡/黑色",
-                  "imgurl":"./img/a_8.jpg",
+                  "imgurl":"../static/imges/img/a_8.jpg",
                   "price":" ¥ 2999"
                 },
                 {
                   "id": "abc45",
                   "name":"AIO 520C-24IWL 十代英特尔酷睿i5 23.8英寸一体台式机 白色",
                   "title":"十代英特尔酷睿I5-10210U/Windows 10 家庭中文版/23.8英寸/16G/512G SSD/集成显卡/白色",
-                  "imgurl":"./img/a_9.jpg",
+                  "imgurl":"../static/imges/img/a_9.jpg",
                   "price":" ¥ 4799"
                 }
             ]
         },
         {
-            "imgUrl":"./img/b_1.jpg",
+            "imgUrl":"../static/imges/img/b_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc47",
                     "name":"拯救者M600鼠标",
                     "title":"RGB无线游戏鼠标 轻质便携 吃鸡鼠标",
-                    "imgurl":"./img/b_2.jpg",
+                    "imgurl":"../static/imges/img/b_2.jpg",
                     "price":" 349"
                 },
                 {
                   "id": "abc48",
                   "name":"拯救者铝合金散热支架 Z2 陨石灰",
                   "title":"高效散热 六段可调 铝合金材质 折叠便携",
-                  "imgurl":"./img/b_3.jpg",
+                  "imgurl":"../static/imges/img/b_3.jpg",
                   "price":"¥ 149"
                 },
                 {
                   "id": "abc49",
                   "name":"小新新选 新动系列双肩包 爵士黑",
                   "title":"多种专属配色  |  定制磨毛仿棉材质  |  进口军工级凯夫拉缝线",
-                  "imgurl":"./img/b_4.jpg",
+                  "imgurl":"../static/imges/img/b_4.jpg",
                   "price":" ¥ 129"
                 },
                 {
                   "id": "abc50",
                   "name":"YOGA 65W电源适配器 锦绣红",
                   "title":"小巧易携带 可折叠插脚 多设备兼容 多协议快充",
-                  "imgurl":"./img/b_5.jpg",
+                  "imgurl":"../static/imges/img/b_5.jpg",
                   "price":" ¥ 129"
                 },
                 {
                   "id": "abc51",
                   "name":"Lenovo 500 高清网络摄像头",
                   "title":"全高清广角镜头 面部识别 隐私保护",
-                  "imgurl":"./img/b_6.jpg",
+                  "imgurl":"../static/imges/img/b_6.jpg",
                   "price":"¥ 199"
                 },
                 {
                   "id": "abc52",
                   "name":"联想电脑屏幕护眼灯",
                   "title":"Legion Gears 多功能屏幕护眼挂灯",
-                  "imgurl":"./img/b_7.jpg",
+                  "imgurl":"../static/imges/img/b_7.jpg",
                   "price":" ¥ 199"
                 },
                 {
                   "id": "abc53",
                   "name":"小新 Mini支架&鼠标垫套装 蓝黑",
                   "title":"悬空散热 | 轻薄便携 | 表面顺滑 | 加厚耐磨",
-                  "imgurl":"./img/b_8.jpg",
+                  "imgurl":"../static/imges/img/b_8.jpg",
                   "price":"¥ 69"
                 },
                 {
                   "id": "abc54",
                   "name":"拯救者多功能双肩包 C1 魅影黑",
                   "title":"LEGION拯救者多功能双肩包（可容纳15.6英寸电脑）",
-                  "imgurl":"./img/b_9.jpg",
+                  "imgurl":"../static/imges/img/b_9.jpg",
                   "price":"¥ 249"
                 }
             ]
         },
         {
-            "imgUrl":"./img/y_1.jpg",
+            "imgUrl":"../static/imges/img/y_1.jpg",
             "xiaoxin":[
                 {
                     "id": "abc56",
                     "name":"联想异能者 2020 BA133-骨伽乾坤黑透",
                     "title":"锐龙R5 3600/RTX2060S 8G/8Gx2/256G SSD/水冷，首次免费上门安装，3年保修1年上门",
-                    "imgurl":"./img/y_2.jpg",
+                    "imgurl":"../static/imges/img/y_2.jpg",
                     "price":" ¥ 6099"
                 },
                 {
                   "id": "abc57",
                   "name":"联想异能者 2020 BA134-骨伽乾坤白透",
                   "title":"锐龙R5 3600/RTX2060S 8G/8Gx2/256G SSD/水冷，首次免费上门装，3年保修1年上门",
-                  "imgurl":"./img/y_3.jpg",
+                  "imgurl":"../static/imges/img/y_3.jpg",
                   "price":"¥ 6099"
                 },
                 {
                   "id": "abc58",
                   "name":"异能者DIY-TMD 锐龙R7 3700X 白色",
                   "title":"锐龙R7 3700X/GTX1660S/8G/512G SSD，首次免费上门安装，免费级WiFi6，3年保修1年上门",
-                  "imgurl":"./img/y_4.jpg",
+                  "imgurl":"../static/imges/img/y_4.jpg",
                   "price":"¥ 5299"
                 },
                 {
                   "id": "abc59",
                   "name":"异能者DIY-TME 锐龙R5 3600 黑色",
                   "title":"锐龙R5 3600/RTX2060S 8G/16G/512G SSD，首次免费上门安装，费升级WiFi6，3年保修1年上门",
-                  "imgurl":"./img/y_5.jpg",
+                  "imgurl":"../static/imges/img/y_5.jpg",
                   "price":" ¥ 6099"
                 },
                 {
                   "id": "abc60",
                   "name":"异能者DIY-JDB 锐龙R5 3600 白色",
                   "title":"锐龙R5 3600/GTX1660S 6G/8G/512G SSD，首次免费上门安装，3保修1年上门，免费升级WiFi6",
-                  "imgurl":"./img/y_6.jpg",
+                  "imgurl":"../static/imges/img/y_6.jpg",
                   "price":" ¥ 4799 "
                 },
                 {
                   "id": "abc61",
                   "name":"异能者DIY-JDF 锐龙7 3700X 黑色",
                   "title":"锐龙R7 3700X/GTX1660S 6G/16G/512G SSD，首次免费上门安装，费升级WiFi6，3年保修1年上门",
-                  "imgurl":"./img/y_7.jpg",
+                  "imgurl":"../static/imges/img/y_7.jpg",
                   "price":" ¥ 5799 "
                 },
                 {
                   "id": "abc62",
                   "name":"异能者DIY-ZZA 锐龙R5 3600 黑色",
                   "title":"锐龙R5 3600/GTX1660s 6G/8G*2/512G SSD，首次免费上门安装，年保修1年上门",
-                  "imgurl":"./img/y_8.jpg",
+                  "imgurl":"../static/imges/img/y_8.jpg",
                   "price":" ¥ 5299"
                 },
                 {
                   "id": "abc63",
                   "name":"异能者DIY-TMF 锐龙R7 3700X 白色",
                   "title":"R7 3700X/RTX2060S/16G/512G SSD，首次免费上门安装，免费升WiFi6，3年保修1年上门",
-                  "imgurl":"./img/y_9.jpg",
+                  "imgurl":"../static/imges/img/y_9.jpg",
                   "price":" ¥ 7999"
                 }
             ]
