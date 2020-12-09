@@ -5,10 +5,12 @@ var sass = require('gulp-sass');    //scss装css
 var webserver = require('gulp-webserver');   //开启web服务器
 
 
+//清理dist文件夹
 function cleanTask(){
     return src('./dist',{allowEmpty:true})   //{allowEmpty:true}当此文件夹不存在时也可以清理（防止报错）
             .pipe(clean());
 }
+
 //html代码片段
 function htmlTask(){
     return src('./src/view/*.html')
@@ -38,12 +40,17 @@ function jsTask(){
             .pipe(dest('./dist/js'));
 }
 
-//js文件的处理
+//lib文件的处理
 function libTask(){
     return src('./src/lib/**')
             .pipe(dest('./dist/lib'));
 }
 
+//api文件的处理
+function apiTask(){
+    return src('./src/api/**')
+            .pipe(dest('./dist/api'));
+}
 
 
 
@@ -72,7 +79,7 @@ function webTask(){
 
 module.exports = {
     //开发调用的命令（开发时一般都压缩，与生产的命令不一样）
-    dev:series(cleanTask,parallel(htmlTask,staticTask,sassTask,libTask,jsTask),parallel(watchTask,webTask)),
+    dev:series(cleanTask,parallel(htmlTask,staticTask,sassTask,libTask,jsTask,apiTask),parallel(watchTask,webTask)),
     //生产调用的命令
     build:series(cleanTask)
 

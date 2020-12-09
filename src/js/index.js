@@ -1,4 +1,5 @@
 // -----------------------------轮播图  B站效果
+
 var r_ColSpans = document.querySelectorAll('#r_Col span');
 var r_CulLi = document.querySelectorAll('#r_Cul li');
 var r_Carousel = document.querySelector('#r_Carousel');
@@ -86,3 +87,19 @@ function run(){
 
 
 
+// -------------------------------------导航鼠标移上点击
+var r_ntli = document.querySelectorAll('#r_nav #r_ntop li');
+var r_ntlia = document.querySelectorAll('#r_nav #r_ntop li a');
+
+
+for(var i=0; i<r_ntli.length; i++){
+    console.log(12);
+    r_ntli[i].onmouseover = function(){
+        for(var i=0; i<r_ntli.length; i++){
+            r_ntli[i].className ='r_l '
+        }
+        this.className += ' activty'
+        console.log(1111);
+    }
+    
+}
